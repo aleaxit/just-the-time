@@ -1,0 +1,1 @@
+See http://stackoverflow.com/questions/908550/python-getting-date-online/908649#908649 for how this tiny app came about. An instance of this code is running at http://just-the-time.appspot.com/ btw.
